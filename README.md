@@ -33,5 +33,3 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 Data Model
 
 
-Complete Video Tutorial
-Video Link - https://youtu.be/WpQECq5Hx9g
